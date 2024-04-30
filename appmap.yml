@@ -1,0 +1,4 @@
+name: "buckpal"
+appmap_dir: "tmp/appmap"
+packages:
+- path: "io.reflectoring.buckpal"
